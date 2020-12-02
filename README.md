@@ -1,8 +1,8 @@
 # KOTLIN BASIC
 
 ## Built With
-a. KOTLIN
-b. ANDROID STUDIO IDE
+ * [Kotlin](https://kotlinlang.org/)
+ * [Getting Started Guide](https://kotlinlang.org/docs/tutorials/getting-started.html)
 
 # Kotlin Programming Language
 
