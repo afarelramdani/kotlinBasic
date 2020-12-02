@@ -1,4 +1,4 @@
 # KOTLIN BASIC
 
 ## Built With
-[![kotlin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmv8wPTCAqjaWbjdiqodh8zilNmNnfer6aQ&usqp=CAU)](https://kotlinlang.org/)
+[![kotlin](https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png)](https://kotlinlang.org/)
